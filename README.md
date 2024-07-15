@@ -35,7 +35,7 @@ This project demonstrates the use of the k-means clustering algorithm to classif
 
 ## Dataset
 
-The dataset used in this project is sourced from [link to the dataset](https://raw.githubusercontent.com/ParjitaMunshi/ADS-7390-Assignment1-KMeans/main/Alcohol_consumtion.csv). It contains various features related to alcohol consumption patterns.
+The dataset used in this project is sourced from [link to the dataset](https://github.com/ParjitaMunshi/Alcohol-Consumption-Classification-KMeans/blob/main/Alcohol_consumtion.csv). It contains various features related to alcohol consumption patterns.
 
 ## Project Structure
 
